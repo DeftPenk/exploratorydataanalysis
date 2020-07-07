@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Exploratory Data Analysis Project 1
 
 Author : Aditya Vikram Dash
 
