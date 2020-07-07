@@ -99,7 +99,7 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](https://github.com/DeftPenk/exploratorydataanalysis/blob/master/plot1.png) 
+![plot of chunk unnamed-chunk-2](https://github.com/DeftPenk/exploratorydataanalysis/commit/f1f0279a2d02d2bab28250ff99932dfb40927d0e) 
 
 
 ### Plot 2
